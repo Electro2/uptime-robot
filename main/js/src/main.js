@@ -2,12 +2,12 @@ $(document).ready(function() {
   jQuery('#up-get-monitors-table').DataTable({
     "aaSorting": [],
     "oLanguage": {
-      "sInfo": 'Showing _START_ to _END_ of _TOTAL_ Monitors.',
-      "sInfoEmpty": 'No Monitors yet.',
-      "sInfoFiltered": 'filtered from _MAX_ total Monitors',
-      "sZeroRecords": 'No Monitors Found',
-      "sLengthMenu": 'Show _MENU_ Monitors',
-      "sEmptyTable": "No Monitors found currently.",
+      "sInfo": 'Visualisation de _START_ à _END_ sur _TOTAL_ Moniteurs.',
+      "sInfoEmpty": 'Pas encore de moniteurs.',
+      "sInfoFiltered": 'Filtré sur _MAX_ total Monitors',
+      "sZeroRecords": 'Aucun moniteur trouvé',
+      "sLengthMenu": 'Visualisation de _MENU_ Moniteurs',
+      "sEmptyTable": "Aucun moniteur trouvé pour le moment.",
     }
   });
 

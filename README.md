@@ -1,9 +1,9 @@
-<h1>Uptime Robot One Pager</h1>
+<h1>Page de status Uptime Robot</h1>
 
-Check out the demo <a href="http://up-monitor.com/">http://up-monitor.com/</a>
+Version française de <a href="https://github.com/HeadTalker/uptime-robot">https://github.com/HeadTalker/uptime-robot</a> : <a href="http://up-monitor.com/">http://up-monitor.com/</a>
 
 
-<h3>All Your Monitors In 1 Place</h3>
+<h3>Tous les moniteurs sur une seule page</h3>
 
 ![Alt text](http://i.imgur.com/m98uKyX.png)
 
